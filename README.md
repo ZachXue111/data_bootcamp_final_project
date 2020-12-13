@@ -14,5 +14,6 @@ or in a different semester, without the express approval of all instructors is s
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
 
-Project Description
-Insert one paragraph description of your project
+Project Description:
+Overall, we want to find the fundamental factors that cause stock market growth. We do this by comparing GDP data, company dividends, and estimated earnings data to stock market data that is clustered by industry sectors. The largest discernable differences between the potential factors and stock market data show us the fundamental patterns/factors for stock market growth.
+
